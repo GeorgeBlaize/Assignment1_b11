@@ -257,3 +257,188 @@ table, th, td {
     background-color: #a0f8d6;
     
 }
+
+/*recent part*/
+
+.recent{
+    position: absolute;
+    top: 270%;
+    left: 20%;
+}
+
+#rp1{
+    max-width: 75%;
+}
+
+.r1{
+    
+    background-color: #fff;
+    width: 1020px;
+    border: 1px solid #000;
+    border-radius: 10px;
+}
+
+.rsp1{
+    height: 220px;
+    margin-left: 30px;
+    margin: 30px;
+    border-radius: 25px;
+}
+
+.rh4{
+    margin-left: 30px;
+    margin-left: 40px;
+    position: absolute;
+    top: 13%;
+    left: 25%;
+    
+}
+
+.rap2{
+    margin-left: 40px;
+    position: absolute;
+    top: 17%;
+    left: 25%;
+    width: 7%;
+}
+
+#rp3{
+    margin-left: 40px;
+    position: absolute;
+    top: 20%;
+    left: 25%;
+
+}
+
+#rp4{
+    margin-left: 40px;
+    position: absolute;
+    top: 23%;
+    left: 25%;
+    width: 45%;
+}
+
+#rbtn{
+    margin-left: 40px;
+    position: absolute;
+    top: 32%;
+    left: 25%;
+    width: 120px;
+    height: 50px;
+    border-radius: 10px;
+    background-color: rgb(5, 69, 5);
+    color: #fff;
+}
+
+.r2{
+    margin-top: 25px;
+    background-color: #fff;
+    width: 1020px;
+    border: 1px solid #000;
+    border-radius: 10px;
+    height: 280px;
+}
+
+.rsp2{
+    height: 220px;
+    margin-left: 700px;
+    border-radius: 25px;
+    margin-top: 30px;
+    
+
+}
+
+.r2h4{
+    position: absolute;
+    top: 45%;
+    margin-left: 30px;
+}
+
+.r2ap2{
+    position: absolute;
+    top: 45%;
+    margin-left: 30px;
+
+  
+    position: absolute;
+    top: 50%;
+    left: 0%;
+    width: 7%;
+}
+
+#r2p3{
+    
+    position: absolute;
+    top: 52%;
+    left: 3%;
+}
+
+#r2p4{
+    position: absolute;
+    top: 54%;
+    left: 3%;
+    width: 45%;
+}
+
+#r2btn{
+    
+    position: absolute;
+    top: 62%;
+    left: 3%;
+    width: 120px;
+    height: 50px;
+    border-radius: 10px;
+    background-color: rgb(5, 69, 5);
+    color: #fff;
+}
+
+.r3{
+    margin-top: 25px;
+    background-color: #fff;
+    width: 1020px;
+    border: 1px solid #000;
+    border-radius: 10px;
+}
+
+.r3h4{
+    margin-left: 40px;
+
+    position: absolute;
+    top: 73%;
+    left: 25%;
+}
+
+.rap3{
+    margin-left: 40px;
+    position: absolute;
+    top: 77%;
+    left: 25%;
+    width: 7%;
+}
+
+#r3p3{
+    margin-left: 40px;
+    position: absolute;
+    top: 79%;
+    left: 25%;
+}
+
+#r3p4{
+    margin-left: 40px;
+    position: absolute;
+    top: 81%;
+    left: 25%;
+    width: 45%;
+}
+
+#r3btn{
+    margin-left: 40px;
+    position: absolute;
+    top: 89%;
+    left: 25%;
+    width: 120px;
+    height: 50px;
+    border-radius: 10px;
+    background-color: rgb(5, 69, 5);
+    color: #fff;
+}
