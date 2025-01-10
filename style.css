@@ -1,0 +1,15 @@
+nav{
+    justify-content: space-around;
+    /* text-align: center; */
+    display: flex;
+    
+}
+
+.btn1{
+    height: 55px;
+    width: 110px;
+    border-radius: 10px;
+    color: rgb(8, 128, 8);
+    border-color: rgb(8, 128, 8);
+    background-color: white;
+}
