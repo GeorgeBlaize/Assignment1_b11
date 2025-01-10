@@ -1,5 +1,9 @@
+body{
+    background-color: rgb(245, 241, 241);
+}
+
 nav{
-    justify-content: space-between;
+    justify-content: space-around;
     /* text-align: center; */
     display: flex;
     
@@ -15,14 +19,19 @@ nav{
 }
 
 .banner-content{
-    margin-left: 250px;
+    /* margin-left: 250px;
 
-    max-width: 580px;
+    max-width: 580px; */
+
+    position: absolute;
+    top: 10%;
 
     
 
 }
-
+#idea{
+    max-width: 35%;
+}
 .banner{
     display: flex;
     justify-content: space-evenly;
@@ -30,11 +39,21 @@ nav{
     background-color: rgb(104, 241, 181);
     border-radius: 20px;
     position: absolute;
-    top: 20%;
+    top: 15%;
+    height: 70%;
+    width: 57%;
+    left: 10%;
     
     
 }
 
+#bdflag{
+    position: absolute;
+    top: 10%;
+    height: 70%;
+    left: 40%;
+
+}
 .btn2{
 
     height: 55px;
@@ -46,6 +65,174 @@ nav{
 
 .pillars{
     position: absolute;
-    top: 80%;
-    left: 12%;
+    top: 90%;
+    left: 21%;
+    display: flex;
+}
+.pillar-bd-heading{
+    position: absolute;
+    left: 60%;
+}
+.pillar1{
+   position: absolute;
+    background-color: aqua;
+    width: 90%;
+    border-radius: 15px;
+    border: 1px solid #000;
+    background-color: #fff;
+    top: 100%;
+
+}
+
+.pillar2{
+    position: absolute;
+     background-color: aqua;
+     width: 90%;
+     border-radius: 15px;
+     border: 1px solid #000;
+     background-color: #fff;
+     top: 100%;
+     left: 120%;
+ 
+ }
+
+ .pillar3{
+    position: absolute;
+     background-color: aqua;
+     width: 90%;
+     border-radius: 15px;
+     border: 1px solid #000;
+     background-color: #fff;
+     top: 100%;
+     left: 240%;
+ 
+ }
+
+ .pillar4{
+    position: absolute;
+     background-color: aqua;
+     width: 90%;
+     border-radius: 15px;
+     border: 1px solid #000;
+     background-color: #fff;
+     top: 100%;
+     left: 350%;
+ 
+ }
+.innovation1{
+    max-width: 100%;
+}
+/*vision part*/
+
+.vision{
+    position: absolute;
+    top: 130%;
+    left: 20%;
+}
+
+#v1{
+    max-width: 75%;
+    
+}
+
+#v2{
+    max-width: 90%;
+    margin-left: 10px;
+}
+
+.vision1{
+    position: absolute;
+    background-color: #fff;
+    width: 320px;
+    border: 1px solid #000;
+    border-radius: 10px;
+    top: 100%;
+   
+}
+
+.vbtn1{
+    height: 40px;
+    margin-left: 10px;
+    
+    margin-bottom: 5px;
+    background-color: rgb(27, 180, 246);
+    color: #fff;
+    border-radius: 10px;
+}
+
+.vpic{
+    margin-left: 10px;
+    margin-top: 10px;
+}
+
+.vh4{
+    margin-left: 10px;
+}
+
+.vision2{
+    background-color: #a0f8d6;
+    width: 320px;
+    border: 1px solid #000;
+    border-radius: 10px;
+    position: absolute;
+    top: 100%;
+    left: 25%;
+}
+
+.vision3{
+    background-color: #cced11;
+    width: 320px;
+    border: 1px solid #000;
+    border-radius: 10px;
+    position: absolute;
+    top: 100%;
+    left: 50%;
+    
+}
+
+.vbtn2{
+    height: 40px;
+    margin-left: 10px;
+    
+    margin-bottom: 5px;
+    background-color: rgb(26, 220, 100);
+    color: #fff;
+    border-radius: 10px;
+}
+
+.vbtn3{
+    height: 40px;
+    margin-left: 10px;
+    
+    margin-bottom: 5px;
+    background-color: rgb(232, 166, 12);
+    color: #fff;
+    border-radius: 10px;
+}
+/* .vp1{
+    position: absolute;
+    top: 6%;
+} */
+/*div4*/
+
+#div4{
+    position: absolute;
+    top: 450%;
+    background-color: #fff;
+    width: 73%;
+    border: 1px solid #000;
+    border-radius: 10px;
+
+    
+}
+
+#dp1{
+    margin-left: 10px;
+}
+#dp2{
+    margin-left: 10px;
+}
+
+#dp3{
+    margin-left: 10px;
 }
