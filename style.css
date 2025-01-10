@@ -1,5 +1,5 @@
 nav{
-    justify-content: space-around;
+    justify-content: space-between;
     /* text-align: center; */
     display: flex;
     
@@ -12,4 +12,40 @@ nav{
     color: rgb(8, 128, 8);
     border-color: rgb(8, 128, 8);
     background-color: white;
+}
+
+.banner-content{
+    margin-left: 250px;
+
+    max-width: 580px;
+
+    
+
+}
+
+.banner{
+    display: flex;
+    justify-content: space-evenly;
+    margin: 0 35px 0 200px;
+    background-color: rgb(104, 241, 181);
+    border-radius: 20px;
+    position: absolute;
+    top: 20%;
+    
+    
+}
+
+.btn2{
+
+    height: 55px;
+    width: 170px;
+    background-color: green;
+    color: #fff;
+    border-radius: 10px;
+}
+
+.pillars{
+    position: absolute;
+    top: 80%;
+    left: 12%;
 }
