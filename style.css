@@ -514,3 +514,49 @@ input{
     background-color: rgb(5, 69, 5);
     color: #fff;
 }
+
+/*Subcribe part*/
+
+.subscribe{
+    position: absolute;
+    top: 480%;
+    background-color: #a0f8d6;
+    width: 1050px;
+    left: 20%;
+    border-radius: 15px;
+    height: 300px;
+
+}
+
+#sp1{
+    margin-left: 400px;
+}
+
+#sp2{
+    margin-left: 240px;
+}
+
+#sp3{
+    margin-left: 380px;
+}
+
+#subscribeInput{
+    width: 480px;
+    margin-left: 184px;
+    
+}
+
+#subscribeBtn{
+    height: 45px;
+    width: 120px;
+    
+    background-color: green;
+    color: #fff;
+    position: absolute;
+    left: 62%;
+    top: 52%;
+}
+
+#sp4{
+    text-align: center;
+}
