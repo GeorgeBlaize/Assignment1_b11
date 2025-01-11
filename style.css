@@ -560,3 +560,18 @@ input{
 #sp4{
     text-align: center;
 }
+
+footer{
+    position: absolute;
+    top: 530%;
+    background-color: #fff;
+    width: 1700%;
+}
+
+#f1{
+    margin-left: 770px;
+}
+
+#fb{
+    margin-left: 800px;
+}
