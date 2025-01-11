@@ -442,3 +442,75 @@ table, th, td {
     background-color: rgb(5, 69, 5);
     color: #fff;
 }
+
+/*donate part*/
+
+.donate{
+    position: absolute;
+    top: 420%;
+    left: 20%;
+}
+
+#dop1{
+    position: absolute;
+    top: -35%;
+    left: 45%;
+}
+
+#dop2{
+    max-width: 100%;
+}
+
+#dop3{
+    margin-left: 220px;
+}
+
+#dop4{
+    background-color: #fff;
+    height: 80px;
+    width: 150px;
+    border-radius: 10px;
+    border:  1px solid #7a7979;
+}
+
+#dop5{
+    margin-left: 34px;
+    margin-top: 33px;
+   
+}
+
+.donatebox{
+    display: flex;
+   justify-content: space-evenly;
+}
+
+#dop4t2{
+    background-color: #a0f8d6;
+    height: 80px;
+    width: 150px;
+    border-radius: 10px;
+    border:  1px solid #7a7979;
+}
+
+input{
+    width: 820px;
+    height: 40px;
+    margin-top: 20px;
+    margin-left: 70px;
+}
+
+#placeholder1{
+    text-align: center;
+}
+
+#donateBtn{
+    margin-left: 40px;
+    position: absolute;
+    top: 455%;
+    left: 43%;
+    width: 120px;
+    height: 50px;
+    border-radius: 10px;
+    background-color: rgb(5, 69, 5);
+    color: #fff;
+}
